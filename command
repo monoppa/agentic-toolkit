@@ -1,0 +1,1 @@
+/Users/mon/.config/opencode/command
